@@ -1,0 +1,10 @@
+DROP TABLE "availability";
+DROP TABLE "pharmacies";
+DROP TABLE "modification_of_medicines";
+DROP TABLE "manufacturers";
+DROP TABLE "compliance_of_groups_of_medicines";
+DROP TABLE "group_of_medicines";
+DROP TABLE "medecines";
+DROP TABLE "countries";
+DROP TABLE "specialization_of_pharmacies";
+DROP TABLE "type_of_packaging";
